@@ -45,7 +45,7 @@ public class ClientInterface extends JPanel
         frame.pack();
         frame.setVisible(true);
         
-        //dfksdg
+        //dfks
     }
     
 }
